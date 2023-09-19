@@ -1,0 +1,10 @@
+.make_read{
+    width: 100px;
+    height: 24px;
+
+    color: blue;
+}
+.make_read:hover{
+    
+    color: tomato;
+}

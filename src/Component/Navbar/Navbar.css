@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 70%;
+    margin: auto;
+}
+.title{
+    font-weight: bold;
+}
+.profile{
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+}
+@media only screen and (max-width: 576px) {
+    .title {
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        color: black;
+        margin-bottom: 15px;
+    }
+  }

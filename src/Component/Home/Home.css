@@ -1,0 +1,115 @@
+.row {
+    width: 70%;
+    margin: 30px auto;
+
+}
+.side_one {
+    margin-right: 20px;
+    padding: 10px;
+
+}
+
+.side_two {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.main_img {
+    width: 645px;
+    height: 450px;
+    border-radius: 8px;
+}
+
+.author_img img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.autohor_area {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.author_name {
+    margin-top: 20px;
+}
+
+.name {
+
+    padding: 0;
+    margin: 0;
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+.date{
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.title {
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    margin-bottom: 15px;
+}
+.beginners{
+    margin-right: 10px;
+    font-size: 14px;
+    color: rgba(17, 17, 17, 0.6);
+}
+.programming{
+    margin-left: 5px;
+    font-size: 14px;
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.top_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 576px) {
+    body{
+        margin-right: 00px;
+        padding: 5px;
+    }
+    .main_img {
+        height: auto;
+        width: 330px !important;
+        margin: auto;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .title {
+        font-size: large;
+        margin-top: 10px;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .name {
+        font-size: smaller;
+        margin-top: 20px;
+    }
+    .date_area{
+        font-size: 12px;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .author_img img {
+        margin-top: 15px;
+        
+    }
+    .row {
+        width: 100%;
+        margin: 10px auto;
+    
+    }
+  }

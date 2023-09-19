@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "How to get your first job as a self-taught programmer",
+        "time": 7,
+        "name": "Mr. Raju",
+        "img": " https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010142.jpg?w=996&t=st=1680204199~exp=1680204799~hmac=61a295c1076265176fdf7bbc486157a45c6522358637424659747698270abc59",
+        "author": " https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+       
+    },
+
+    {
+        "id": 3,
+        "title": "How to get your first job as a self-taught programmer",
+        "time": 5,
+        "name": "Haniful",
+        "author": " https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "img": "https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1680204151~exp=1680204751~hmac=4cd65067258b9279ebf2332ed8ad3a43b36adf788ad98858f9782179ca3ba38a"
+        
+    },
+    {
+        "id": 4,
+        "title": "How to get your first job as a self-taught programmer",
+        "time": 10,
+        "name": "Morsalin",
+        "author": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1680203456~exp=1680204056~hmac=9f6e0d50316cc9a5bd7bb4491192954119166e7f34b4a8d2167da1be2fca503a"
+    },
+    {
+        "id": 2,
+        "name": "Rumman",
+        "title": "How to get your first job as a self-taught programmer",
+        "time": 15,
+        "author": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
+    }
+]
